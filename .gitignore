@@ -1,0 +1,9 @@
+# Dati creati dallo script durante l'uso (restano solo sul PC)
+chats/
+agente_files/
+certificato/
+impostazioni.json
+log_azioni.txt
+codice_accesso.txt
+chat_ollama_avvio.log
+__pycache__/
